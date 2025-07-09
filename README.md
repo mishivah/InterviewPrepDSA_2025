@@ -1,2 +1,2 @@
-# InterviewPrepDSA_2025
+# InterviewPrepDSA: Problems Solved
 Creating a repo for interview preparation in DSA
